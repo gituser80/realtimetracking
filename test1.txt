@@ -1,5 +1,0 @@
-test1, 
-
-file to test our use cases
-
-trying a new command for commit 
